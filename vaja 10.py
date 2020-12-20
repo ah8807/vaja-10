@@ -1,1 +1,3 @@
-print("hello world")
+
+x=input("vnesi ime: ")
+print(f"hello {x}")
